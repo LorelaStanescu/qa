@@ -6,8 +6,8 @@
     </info>
     <sect1>
         <title>Inline Markup and Images</title>
-        <para>This sample shows that &lt;oXygen/&gt; can be used to edit documentsss in conformity
-            with the
+        <para>This sample shows that &lt;oXygen/&gt; can be used to edit documensssssstsss in
+            conformity with the
             dockbookx.dtd<?oxy_delete author="Mary" timestamp="20120510T144707+0300" content=" " comment="We must not add extra spacing before and after punctuation marks."?>.</para>
         <para>The following <code>Docbook</code> figure is inserted using the <code>imagedata</code>
             tag:</para>
